@@ -1,0 +1,25 @@
+{
+	"name": "@corefw/model-mysql",
+	"version": "6.1.0",
+	"description": "Base abstractions for models.",
+	"license": "MIT",
+	"author": "Luke Chavers <luke@c2cschools.com>",
+	"contributors": [
+		"Kevin Sanders <kevin@c2cschools.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/corefw/core-model.git"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"bugs": {
+		"url": "https://github.com/corefw/core-model/issues"
+	},
+	"homepage": "https://github.com/corefw/core-model#readme",
+	"main": "./lib/index.js",
+	"engines": {
+		"node": ">=8"
+	}
+}
